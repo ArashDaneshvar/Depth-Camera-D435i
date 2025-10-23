@@ -1,8 +1,8 @@
-# Depth-Camera-D435i
+# The Ultimate Guide to Intel RealSense D435i
 
-## Project Overview
+## Overview
 
-In this project, I use the **Intel RealSense D435i** depth camera to explore how to capture and process depth and color data on different platforms.
+In this Repo, I explain **"D435i Camera: Everything You Need to Know"** and explore how to capture and process depth and color data on different platforms.
 
 The main goals of the project are to:
 
